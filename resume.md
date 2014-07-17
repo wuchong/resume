@@ -41,7 +41,7 @@ Experience
 
 *2013年9月 - 2013年12月* ，研究项目（Hadoop）  
 
-本项目是实现基于分布式存储的视频网站，使用 hdfs 存储视频，nginx+php+mysql提供网站服务，nginx反向代理实现负载均衡。并在实验室中使用五台真机和虚拟技术搭建了全分布式环境，以及对 hdfs+fuse 和网站进行了性能测试。
+本项目是实现基于分布式存储的视频网站，使用 hdfs 存储视频，nginx+php+mysql 提供网站服务，nginx反向代理实现负载均衡。并在实验室中使用五台真机和虚拟技术搭建了全分布式环境，以及对 hdfs+fuse 和网站进行了性能测试。
 
 此项目中，作为项目组长负责系统的整体架构设计，参与了系统所有模块的开发，完成了全分布式集群的搭建以及进行了性能测试。  
 
@@ -68,8 +68,8 @@ Skills & Expertise
 ### Programming Languages
 
 - [Java](http://developer.mozilla.org/en/JavaScript)^†^
-- [C/C++]()
 - [Python](https://www.python.org/)^†^
+- [C/C++]()
 - [Shell](http://zh.wikipedia.org/wiki/Unix_shell)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [HTML]()
@@ -88,14 +88,15 @@ Skills & Expertise
 ### Software & Tools
 
 - [Mac OS X](http://apple.com/macosx)^†^
-- [Ubuntu Linux](http://ubuntu.com)
 - [Vim](http://www.vim.org)^†^
-- [Sublime Text](http://www.sublimetext.com)
 - [Git](http://git-scm.com)^†^
+- [Eclipse](http://www.eclipse.org/)^†^
+- [Ubuntu Linux](http://ubuntu.com)
+- [Sublime Text](http://www.sublimetext.com)
 - [Subversion](http://svn.apache.org)
 - [MySQL](http://mysql.com)
 - [SQL Server](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
-- [Eclipse](http://www.eclipse.org/)^†^
+
 
 Education
 ---------
