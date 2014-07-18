@@ -17,6 +17,43 @@ Summary
 北京理工大学的一名在读研究生，平时以 Mac OS X 为日常操作系统，喜欢 Linux 技术和分布式技术。关注一些开源项目，也会在 Github 上分享自己的代码。行走在追寻技术的道路上，喜欢将自己的学习经验分享在博客上。拥有较强的实践能力，能够独立完成小型的产品或项目。
 
 
+Skills & Expertise
+------------------
+这些是我平时用过/熟悉的编程语言、框架和工具，带 ^†^ 符号的是我比较喜欢和常用的。
+
+### Programming Languages
+
+- [Java](http://developer.mozilla.org/en/JavaScript)^†^
+- [Python](https://www.python.org/)^†^
+- [C/C++]()
+- [Shell](http://zh.wikipedia.org/wiki/Unix_shell)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML]()
+
+
+### Frameworks & APIs
+
+- [Hadoop](http://hadoop.apache.org/)
+- [MapReduce](http://zh.wikipedia.org/wiki/MapReduce)
+- [Grails](https://grails.org/)
+- [ASP.NET](http://www.asp.net/)
+- [Hibernate](http://hibernate.org/)
+- [Bootstrap](http://getbootstrap.com/2.3.2/)
+
+
+### Software & Tools
+
+- [Mac OS X](http://apple.com/macosx)^†^
+- [Vim](http://www.vim.org)^†^
+- [Git](http://git-scm.com)^†^
+- [Eclipse](http://www.eclipse.org/)^†^
+- [Ubuntu Linux](http://ubuntu.com)
+- [Sublime Text](http://www.sublimetext.com)
+- [Subversion](http://svn.apache.org)
+- [MySQL](http://mysql.com)
+- [SQL Server](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+
+
 Experience
 ----------
 
@@ -58,44 +95,6 @@ Experience
 *2013年1月 - 2013年6月* ， 毕业设计（Java）
 
 该毕业设计主要实现了微博爬虫、HBase 数据存储以及基于 Hadoop 平台 MapReduce 计算框架的并行设计方案，用于计算海量新浪微博用户的六度人脉关系以及小世界特性。并在全分布模式下，计算了52万用户之间的用户关系，最终得出新浪微博用户普遍存在六度关系。
-
-
-
-Skills & Expertise
-------------------
-这些是我平时用过/熟悉的一些编程语言、框架和工具，带 ^†^ 符号的是我比较喜欢和常用的。
-
-### Programming Languages
-
-- [Java](http://developer.mozilla.org/en/JavaScript)^†^
-- [Python](https://www.python.org/)^†^
-- [C/C++]()
-- [Shell](http://zh.wikipedia.org/wiki/Unix_shell)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [HTML]()
-
-
-### Frameworks & APIs
-
-- [Hadoop](http://hadoop.apache.org/)
-- [MapReduce](http://zh.wikipedia.org/wiki/MapReduce)
-- [Grails](https://grails.org/)
-- [ASP.NET](http://www.asp.net/)
-- [Hibernate](http://hibernate.org/)
-- [Bootstrap](http://getbootstrap.com/2.3.2/)
-
-
-### Software & Tools
-
-- [Mac OS X](http://apple.com/macosx)^†^
-- [Vim](http://www.vim.org)^†^
-- [Git](http://git-scm.com)^†^
-- [Eclipse](http://www.eclipse.org/)^†^
-- [Ubuntu Linux](http://ubuntu.com)
-- [Sublime Text](http://www.sublimetext.com)
-- [Subversion](http://svn.apache.org)
-- [MySQL](http://mysql.com)
-- [SQL Server](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
 
 
 Education
