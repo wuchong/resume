@@ -5,9 +5,9 @@
 -----------------------
 
 - 联系电话: [180-1019-5187](tel://180-1019-5187)
-- 电子邮箱: <wuchong1014@gmail.com>
+- 电子邮箱: <wu@wuchong.me>
 - 个人博客: [wuchong.me](http://wuchong.me)
-- Github: [wuchong](http://github.com/wuchong)
+- Github : [wuchong](http://github.com/wuchong)
 - 豆瓣书单: [wuchong1014](http://book.douban.com/people/wuchong1014/)
 
 
@@ -47,6 +47,7 @@ Skills & Expertise
 - [Vim](http://www.vim.org)^†^
 - [Git](http://git-scm.com)^†^
 - [Eclipse](http://www.eclipse.org/)^†^
+- [IntelliJ IDEA](http://www.jetbrains.com/idea/)
 - [Ubuntu Linux](http://ubuntu.com)
 - [Sublime Text](http://www.sublimetext.com)
 - [Subversion](http://svn.apache.org)
@@ -94,7 +95,7 @@ Experience
 
 *2013年1月 - 2013年6月* ， 毕业设计（Java）
 
-该毕业设计主要实现了微博爬虫、HBase 数据存储以及基于 Hadoop 平台 MapReduce 计算框架的并行设计方案，用于计算海量新浪微博用户的六度人脉关系以及小世界特性。并在全分布模式下，计算了52万用户之间的用户关系，最终得出新浪微博用户普遍存在六度关系。
+该毕业设计主要用 Java 实现了微博爬虫，并爬取了 52 万的用户以及之间的好友关系，并将数据存储在 MySQL 和 HBase 上。最后基于 Hadoop 平台的 MapReduce 计算框架实现了双向广度优先搜索算法，并在全分布模式下，计算了海量微博用户之间是否存在六度人脉关系以及小世界特性。
 
 
 Education
@@ -107,7 +108,7 @@ Education
 Honors and Awards
 -----------------
 
-- 参加**阿里巴巴大数据竞赛**（进行中）
+- **阿里巴巴大数据竞赛**
 - 第二届**"中国软件杯"**二等奖、最佳创新奖，*2013.08*
 - 北京理工大学 **优秀毕业生**，*2013.06*
 - 北京理工大学 **国家奖学金**，*2012.12*

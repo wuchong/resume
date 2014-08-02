@@ -439,7 +439,7 @@ sub {
   box-sizing: border-box;
   margin-left: 0;
   padding: 1em 0 0.5em 1em;
-  width: 21em;
+  width: 18em;
 }
 @media only screen and (min-width: 900px) {
   #programmer {
