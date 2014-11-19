@@ -3,6 +3,6 @@ pandoc -s -S resume.md -o resume.html -t html5 --self-contained --section-divs -
 echo 'Generate resume.html success!'
 export LC_COLLATE='C'
 export LC_CTYPE='C'
-sed -i '' 's/id="程序员"/id="programmer"/g'  resume.html
+sed -i '' 's/id="研发工程师"/id="programmer"/g'  resume.html
 sed -i '' 's/id="伍-翀"/id="wu-chong"/g'  resume.html
 echo 'Done!'
