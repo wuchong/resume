@@ -6,3 +6,4 @@
 *.top
 *.tui
 *.tuo
+.DS_Store
