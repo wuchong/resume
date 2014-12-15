@@ -20,8 +20,8 @@
 
 (function (w, d) {
   w.addEventListener('load', function () {
-    var t = d.getElementById('programmer');
-    var h = d.querySelectorAll('#wu-chong > h1')[0];
+    var t = d.getElementById('job');
+    var h = d.querySelectorAll('#name > h1')[0];
     t.addEventListener('mouseover', function (e) {
       if (!h.classList) return;
       h.classList.add('active');

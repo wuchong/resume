@@ -426,7 +426,7 @@ sub {
   display: none;
 }
 
-#programmer {
+#job {
   background: rgba(255, 255, 255, 0.8);
   border: 4px solid rgba(0, 0, 0, 0.07);
   -webkit-border-radius: 16px;
@@ -442,7 +442,7 @@ sub {
   width: 18em;
 }
 @media only screen and (min-width: 900px) {
-  #programmer {
+  #job {
     border-top: none;
     -moz-border-radius-topleft: 0;
     -webkit-border-top-left-radius: 0;
@@ -454,20 +454,20 @@ sub {
     margin-bottom: 0;
   }
 }
-#programmer h2 {
+#job h2 {
   font-size: 120%;
   margin: 0.2em 0 0.2em 1em;
 }
-#programmer ul {
+#job ul {
   margin-top: 0.2em;
   padding-left: 1.3em;
 }
-#programmer li {
+#job li {
   display: block;
   font-size: 75%;
   text-transform: uppercase;
 }
-#programmer li a {
+#job li a {
   font-size: 133.3333%;
   font-weight: bold;
   margin-left: 0.5em;
