@@ -111,4 +111,3 @@ Interests
 
 喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢桌游、动漫、cosplay、游泳、旅游等。
 
-©2014 [Wu Chong](http://wuchong.me). All rights reserved. Fork the resume on [Github](https://github.com/wuchong/resume).
