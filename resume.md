@@ -64,7 +64,7 @@ Experience
 
 本项目由中国汽车技术研究中心委托，使用 ASP.NET 和 SQL Server 技术实现了对汽车整车、零部件、企业的增删改查，多条件查询，产销量报表统计分析，批量数据导入导出，权限管理，日志管理等功能。
 
-独立开发了此项目，包括前端、后台和数据库的开发，独立完成了整个项目的所有阶段，包括客户需求交流，需求分析，设计，开发，测试，验收，部署，维护等。项目目前成功上线，并运行稳定。
+独立开发了此项目，包括前端、后台和数据库的开发，代码量 10 万多行（.cs 4.2 万, .aspx 6.5 万）。独立完成了整个项目的所有阶段，包括客户需求交流，需求分析，设计，开发，测试，验收，部署，维护等。项目目前成功上线，并运行稳定。
 
 ### **分布式存储视频网站**
 
@@ -88,6 +88,18 @@ Experience
 
 该毕业设计主要用 Java 实现了微博爬虫，并爬取了 52 万的用户以及之间的好友关系，并将数据存储在 MySQL 和 HBase 上。最后基于 Hadoop 平台的 MapReduce 计算框架实现了双向广度优先搜索算法，并在全分布模式下，计算了海量微博用户之间是否存在六度人脉关系以及小世界特性。
 
+
+Projects
+---------
+
+### **[Jacman](https://github.com/wuchong/jacman)** <iframe src="http://ghbtns.com/github-btn.html?user=wuchong&repo=jacman&type=watch&count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20" style="vertical-align: middle;"></iframe><iframe src="http://ghbtns.com/github-btn.html?user=wuchong&repo=jacman&type=fork&count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20" style="vertical-align: middle;"></iframe>
+
+ 一款为 Hexo 博客设计的主题，拥有很多功能且具有响应式设计的主题。
+
+### **[码农圈](https://coderq.com)** 
+ 基于 Discourse 搭建的面向程序员交流分享的社区。具有 https 访问和 cdn 加速。
 
 Education
 ---------
