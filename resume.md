@@ -92,7 +92,7 @@ Experience
 Projects
 ---------
 
-### **[Jacman](https://github.com/wuchong/jacman)** <iframe src="http://ghbtns.com/github-btn.html?user=wuchong&repo=jacman&type=watch&count=true"
+### **[Jacman](https://github.com/wuchong/jacman)**  &nbsp; <iframe src="http://ghbtns.com/github-btn.html?user=wuchong&repo=jacman&type=watch&count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20" style="vertical-align: middle;"></iframe><iframe src="http://ghbtns.com/github-btn.html?user=wuchong&repo=jacman&type=fork&count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20" style="vertical-align: middle;"></iframe>
 
