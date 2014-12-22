@@ -4,7 +4,7 @@
 研发工程师
 -----------------------
 
-- 联系电话: [180-1019-5187](tel://180-1019-5187)
+- 联系电话: [180-****-5187](tel://180-****-5187)
 - 电子邮箱: <imjark@gmail.com>
 - 个人博客: [wuchong.me](http://wuchong.me)
 - Github : [wuchong](http://github.com/wuchong)
@@ -64,7 +64,7 @@ Experience
 
 本项目由中国汽车技术研究中心委托，使用 ASP.NET 和 SQL Server 技术实现了对汽车整车、零部件、企业的增删改查，多条件查询，产销量报表统计分析，批量数据导入导出，权限管理，日志管理等功能。
 
-独立开发了此项目，包括前端、后台和数据库的开发，代码量 10 万多行（.cs 4.2 万, .aspx 6.5 万）。独立完成了整个项目的所有阶段，包括客户需求交流，需求分析，设计，开发，测试，验收，部署，维护等。项目目前成功上线，并运行稳定。
+独立开发了此项目，包括前端、后台和数据库的开发，代码量 10 万多行。独立完成了整个项目的所有阶段，包括客户需求交流，需求分析，设计，开发，测试，验收，部署，维护等。项目目前成功上线，并运行稳定。
 
 ### **分布式存储视频网站**
 
@@ -96,10 +96,10 @@ Projects
   allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20" style="vertical-align: middle;"></iframe><iframe src="http://ghbtns.com/github-btn.html?user=wuchong&repo=jacman&type=fork&count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20" style="vertical-align: middle;"></iframe>
 
- 一款为 Hexo 博客设计的主题，拥有很多功能且具有响应式设计的主题。
+ 一款为 Hexo 博客设计的前端主题，响应式设计，内置功能丰富。
 
 ### **[码农圈](https://coderq.com)** 
- 基于 Discourse 搭建的面向程序员交流分享的社区。具有 https 访问和 cdn 加速。
+ 基于 Discourse 搭建的面向程序员交流分享的社区。
 
 Education
 ---------
@@ -121,5 +121,5 @@ Honors and Awards
 Interests
 ---------
 
-喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢桌游、动漫、cosplay、游泳、旅游等。
+喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢桌游、动漫、游泳、旅游等。
 
